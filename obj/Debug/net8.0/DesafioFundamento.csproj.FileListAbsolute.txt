@@ -1,0 +1,14 @@
+C:\Users\johnnyzete.dias\Desktop\DesafioFundamento\bin\Debug\net8.0\DesafioFundamento.exe
+C:\Users\johnnyzete.dias\Desktop\DesafioFundamento\bin\Debug\net8.0\DesafioFundamento.deps.json
+C:\Users\johnnyzete.dias\Desktop\DesafioFundamento\bin\Debug\net8.0\DesafioFundamento.runtimeconfig.json
+C:\Users\johnnyzete.dias\Desktop\DesafioFundamento\bin\Debug\net8.0\DesafioFundamento.dll
+C:\Users\johnnyzete.dias\Desktop\DesafioFundamento\bin\Debug\net8.0\DesafioFundamento.pdb
+C:\Users\johnnyzete.dias\Desktop\DesafioFundamento\obj\Debug\net8.0\DesafioFundamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnnyzete.dias\Desktop\DesafioFundamento\obj\Debug\net8.0\DesafioFundamento.AssemblyInfoInputs.cache
+C:\Users\johnnyzete.dias\Desktop\DesafioFundamento\obj\Debug\net8.0\DesafioFundamento.AssemblyInfo.cs
+C:\Users\johnnyzete.dias\Desktop\DesafioFundamento\obj\Debug\net8.0\DesafioFundamento.csproj.CoreCompileInputs.cache
+C:\Users\johnnyzete.dias\Desktop\DesafioFundamento\obj\Debug\net8.0\DesafioFundamento.dll
+C:\Users\johnnyzete.dias\Desktop\DesafioFundamento\obj\Debug\net8.0\refint\DesafioFundamento.dll
+C:\Users\johnnyzete.dias\Desktop\DesafioFundamento\obj\Debug\net8.0\DesafioFundamento.pdb
+C:\Users\johnnyzete.dias\Desktop\DesafioFundamento\obj\Debug\net8.0\DesafioFundamento.genruntimeconfig.cache
+C:\Users\johnnyzete.dias\Desktop\DesafioFundamento\obj\Debug\net8.0\ref\DesafioFundamento.dll
